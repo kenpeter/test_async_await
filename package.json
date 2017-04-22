@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "mailchimp-api-v3": "^1.7.0",
+    "node-fetch": "^1.6.3"
+  }
+}
